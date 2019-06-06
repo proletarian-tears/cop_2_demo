@@ -1,3 +1,2 @@
-cv2
-requests
+opencv-python
 azure-cognitiveservices-vision-customvision
